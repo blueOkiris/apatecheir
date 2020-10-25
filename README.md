@@ -30,7 +30,7 @@ Here's the [learn page for that](https://learn.adafruit.com/getting-started-with
 
 ### Typical Bionic Hand Design
 
-
+I kinda want something like [this](https://www.thingiverse.com/thing:380665) where strings pull the fingers closed and can be controlled by servos. I'll probably create my own design as my 3d printer frequently breaks :)
 
 ## Brain Signal Interpretation
 
