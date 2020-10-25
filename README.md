@@ -8,6 +8,8 @@ I want to intercept brain waves so that a user who is missing their hand can sub
 
 Although functionality will be simple (open close, possibly separated fingers), I want a controller that can use thresholds to take my brain signals, interpret them into those simple movements, and have the artificial hand mimic my hand's movements.
 
+I was inspired by [this LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:6723047601903685632/)
+
 ## Brain Signal Interpretation
 
 Here I'll explain how I interpret the brain's signals
