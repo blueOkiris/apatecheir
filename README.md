@@ -38,7 +38,9 @@ Here I'll explain how I interpret the brain's signals
 
 ## Hand Mechanical Design
 
-Here I'll explain the physical hardware that moves the hand itself
+Based on some designs I've found online, I have a basic understanding of how to get the fingers pull together. Essentially, you have to make sure you pull on the bottom so they act as if you're pulling on a sort of 90 degree angle bar. This is why the online ones have little angles, so it's easier to keep it on the bottom.
+
+![hand mechanics](./images/mechanical.jpg)
 
 ## Control System
 
